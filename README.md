@@ -15,8 +15,8 @@ This Power BI project analyzes Netflix's catalog of TV Shows and Movies using an
 
 ## 📁 Files Included
 
-- `Netflix-dashboard.pbix` – Main Power BI report file.
-- `netflix-shows.csv` – Cleaned dataset used for the dashboard.
+- `Netflix-dashboard.pbix` – Main Power BI report file.(./Netfilx-dashboard.pbix) |
+- `netflix-shows.csv` – Cleaned dataset used for the dashboard.(./netfilx-shows.csv) |
 - `visuals/` – Screenshots of the dashboard and supporting visuals.
 
 ---
