@@ -29,8 +29,8 @@ Here are the key visuals from Power Bi file
 | Visual | Description |
 |--------|-------------|
 | ![Dashboard Overview](dashboard.png) | Main dashboard displaying KPIs like show count, top genres, and release trends. |
-| ![Content Breakdown](director-cast.png) | Visual comparison of TV Shows vs Movies. |
-
+| ![Content Breakdown](director-cast.png) | Visual displaying of director and cast. |
+| ![Content Breakdown](showspercountry.png) | Visual comparison of shows per country. |
 ---
 
 ## 📈 KPIs & Metrics
