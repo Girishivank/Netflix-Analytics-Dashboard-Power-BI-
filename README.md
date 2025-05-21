@@ -21,12 +21,15 @@ This Power BI project analyzes Netflix's catalog of TV Shows and Movies using an
 
 ---
 
-## 📊 Key Visuals
+## 📊 Screenshots
+
+
+Here are the key visuals from Power Bi file
 
 | Visual | Description |
 |--------|-------------|
-| ![Dashboard Overview](visuals/dashboard.png) | Main dashboard displaying KPIs like show count, top genres, and release trends. |
-| ![Content Breakdown](visuals/director-cast.png) | Visual comparison of TV Shows vs Movies. |
+| ![Dashboard Overview](dashboard.png) | Main dashboard displaying KPIs like show count, top genres, and release trends. |
+| ![Content Breakdown](director-cast.png) | Visual comparison of TV Shows vs Movies. |
 
 ---
 
